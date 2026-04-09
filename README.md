@@ -22,7 +22,7 @@ open_to: Collaboration on Open-Source & Innovative Projects
 fun_fact: I turn coffee into cross-platform apps ☕→📱
 ```
 
-<img align="right" width="300" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pluto-hyp&layout=compact&theme=github_dark&hide_border=true"/>
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluto-hyp&amp;layout=donut-vertical&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;langs_count=8"/>
 
 ### What I Do
 
@@ -122,7 +122,7 @@ fun_fact: I turn coffee into cross-platform apps ☕→📱
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pluto-hyp&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pluto-hyp&amp;theme=github_dark" />
 <img width="49%" src="https://streak-stats.demolab.com?user=pluto-hyp&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=30363d&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff" />
 
 </div>
@@ -140,19 +140,19 @@ fun_fact: I turn coffee into cross-platform apps ☕→📱
 <div align="center">
 
 <a href="https://github.com/pluto-hyp/intellectra">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=pluto-hyp&repo=intellectra&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pluto-hyp&amp;repo=intellectra&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9" />
 </a>
 
 <a href="https://github.com/pluto-hyp/Lada">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=pluto-hyp&repo=Lada&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pluto-hyp&amp;repo=Lada&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9" />
 </a>
 
 <a href="https://github.com/pluto-hyp/hire-radar">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=pluto-hyp&repo=hire-radar&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pluto-hyp&amp;repo=hire-radar&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9" />
 </a>
 
 <a href="https://github.com/pluto-hyp/queryFlow">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=pluto-hyp&repo=queryFlow&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pluto-hyp&amp;repo=queryFlow&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9" />
 </a>
 
 </div>
