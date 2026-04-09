@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Mouad%20El%20Ouichouani&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Mobile%20Developer%20%7C%20AI%20%26%20Data%20Science%20Student&descSize=18&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:1f6feb&amp;height=220&amp;section=header&amp;text=Mouad%20El%20Ouichouani&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Mobile%20Developer%20%7C%20AI%20%26%20Data%20Science%20Student&amp;descSize=18&amp;descAlignY=55&amp;animation=fadeIn"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+seamless+mobile+experiences;Flutter+%7C+Kotlin+%7C+Android+Developer;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Problem+Solver" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=600&amp;lines=Building+seamless+mobile+experiences;Flutter+%7C+Kotlin+%7C+Android+Developer;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Problem+Solver" alt="Typing SVG" /></a>
 
 </div>
 
@@ -22,7 +22,7 @@ open_to: Collaboration on Open-Source & Innovative Projects
 fun_fact: I turn coffee into cross-platform apps ☕→📱
 ```
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluto-hyp&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+<img align="right" width="300" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pluto-hyp&layout=compact&theme=github_dark&hide_border=true"/>
 
 ### What I Do
 
@@ -122,14 +122,14 @@ fun_fact: I turn coffee into cross-platform apps ☕→📱
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pluto-hyp&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=pluto-hyp&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pluto-hyp&theme=github_dark" />
+<img width="49%" src="https://streak-stats.demolab.com?user=pluto-hyp&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=30363d&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=pluto-hyp&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true" />
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=pluto-hyp&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=58a6ff&amp;point=ffffff&amp;area=true&amp;area_color=1f6feb&amp;hide_border=true" />
 
 </div>
 
@@ -140,16 +140,19 @@ fun_fact: I turn coffee into cross-platform apps ☕→📱
 <div align="center">
 
 <a href="https://github.com/pluto-hyp/intellectra">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pluto-hyp&repo=intellectra&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=pluto-hyp&repo=intellectra&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
+
 <a href="https://github.com/pluto-hyp/Lada">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pluto-hyp&repo=Lada&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=pluto-hyp&repo=Lada&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
+
 <a href="https://github.com/pluto-hyp/hire-radar">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pluto-hyp&repo=hire-radar&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=pluto-hyp&repo=hire-radar&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
+
 <a href="https://github.com/pluto-hyp/queryFlow">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pluto-hyp&repo=queryFlow&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=pluto-hyp&repo=queryFlow&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 
 </div>
@@ -160,7 +163,7 @@ fun_fact: I turn coffee into cross-platform apps ☕→📱
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pluto-hyp&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=pluto-hyp&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10" />
 
 </div>
 
@@ -192,7 +195,7 @@ fun_fact: I turn coffee into cross-platform apps ☕→📱
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pluto-hyp&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=pluto-hyp&amp;color=1f6feb&amp;style=for-the-badge&amp;label=PROFILE+VIEWS)
 
 </div>
 
