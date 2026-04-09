@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Mouad El Ouichouani
+# Mouad El Ouichouani
 ### Mobile Developer | AI & Data Science Student
 
 <!-- Typing SVG -->
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```yaml
 name: Mouad El Ouichouani
