@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Mouad%20El%20Ouichouani&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Mobile%20Developer%20%7C%20AI%20%26%20Data%20Science%20Student&descSize=18&descAlignY=55&animation=fadeIn"/>
+# 👨‍💻 Mouad El Ouichouani
+### Mobile Developer | AI & Data Science Student
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+seamless+mobile+experiences;Flutter+%7C+Kotlin+%7C+Android+Developer;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Problem+Solver" alt="Typing SVG" /></a>
@@ -22,7 +22,7 @@ open_to: Collaboration on Open-Source & Innovative Projects
 fun_fact: I turn coffee into cross-platform apps ☕→📱
 ```
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluto-hyp&amp;layout=donut-vertical&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;langs_count=8"/>
+
 
 ### What I Do
 
@@ -137,59 +137,20 @@ fun_fact: I turn coffee into cross-platform apps ☕→📱
 
 ## 🚀 Featured Projects
 
-<div align="center">
+- 🧠 [**Intellectra**](https://github.com/pluto-hyp/intellectra) — Full-stack e-learning application built with Flutter and Django.
+- 🍲 [**Lada**](https://github.com/pluto-hyp/Lada) — Modern Android app for recipe sharing and cooking videos built with Kotlin.
+- 🎯 [**hire-radar**](https://github.com/pluto-hyp/hire-radar) — AI-driven job and profile recommendation platform.
+- 💬 [**queryFlow**](https://github.com/pluto-hyp/queryFlow) — Web-based FAQ chatbot for the software domain.
 
-<a href="https://github.com/pluto-hyp/intellectra">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pluto-hyp&amp;repo=intellectra&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9" />
-</a>
 
-<a href="https://github.com/pluto-hyp/Lada">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pluto-hyp&amp;repo=Lada&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/pluto-hyp/hire-radar">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pluto-hyp&amp;repo=hire-radar&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/pluto-hyp/queryFlow">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pluto-hyp&amp;repo=queryFlow&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9" />
-</a>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pluto-hyp&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10" />
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pluto-hyp/pluto-hyp/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pluto-hyp/pluto-hyp/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/pluto-hyp/pluto-hyp/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
 
 <div align="center">
 
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/el-ouichouani-mouad-9b8158219/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@m0u_ad1)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@Moad_cmd)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m0u_ad1)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Moad_cmd)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elouichouanimouad@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/pluto-hyp)
 
