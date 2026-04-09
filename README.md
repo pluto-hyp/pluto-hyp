@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:1f6feb&amp;height=220&amp;section=header&amp;text=Mouad%20El%20Ouichouani&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Mobile%20Developer%20%7C%20AI%20%26%20Data%20Science%20Student&amp;descSize=18&amp;descAlignY=55&amp;animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Mouad%20El%20Ouichouani&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Mobile%20Developer%20%7C%20AI%20%26%20Data%20Science%20Student&descSize=18&descAlignY=55&animation=fadeIn"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=600&amp;lines=Building+seamless+mobile+experiences;Flutter+%7C+Kotlin+%7C+Android+Developer;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Problem+Solver" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+seamless+mobile+experiences;Flutter+%7C+Kotlin+%7C+Android+Developer;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Problem+Solver" alt="Typing SVG" /></a>
 
 </div>
 
