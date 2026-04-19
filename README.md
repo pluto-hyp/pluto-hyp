@@ -10,7 +10,7 @@
 
 ---
 
-## About Me
+## About Me.
 
 ```yaml
 name: Mouad El Ouichouani
@@ -19,23 +19,23 @@ location: Morocco
 currently_working_on: Mobile & Web Applications
 learning: Deep Learning, MLOps, Scalable Systems
 open_to: Collaboration on Open-Source & Innovative Projects
-fun_fact: I turn coffee into cross-platform apps ☕→📱
+fun_fact: I turn coffee into cross-platform apps
 ```
 
 
 
-### What I Do
+### What I Do.
 
-- 📱 **Mobile Development** — Building polished, production-ready apps with **Flutter** & **Kotlin**
-- 🤖 **AI & Data Science** — Exploring machine learning, NLP, and intelligent systems
-- 🌐 **Full-Stack Web** — Crafting modern web experiences with **Next.js**, **Django**, & **React**
-- ☁️ **Cloud & DevOps** — Deploying with **Firebase**, **GCP**, and **Docker**
+- **Mobile Development** — Building polished, production-ready apps with **Flutter** & **Kotlin**
+- **AI & Data Science** — Exploring machine learning, NLP, and intelligent systems
+- **Full-Stack Web** — Crafting modern web experiences with **Next.js**, **Django**, & **React**
+- **Cloud & DevOps** — Deploying with **Firebase**, **GCP**, and **Docker**
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack.
 
 <details open>
 <summary><b>Languages</b></summary>
@@ -118,7 +118,7 @@ fun_fact: I turn coffee into cross-platform apps ☕→📱
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics.
 
 <div align="center">
 
@@ -135,12 +135,12 @@ fun_fact: I turn coffee into cross-platform apps ☕→📱
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-- 🧠 [**Intellectra**](https://github.com/pluto-hyp/intellectra) — Full-stack e-learning application built with Flutter and Django.
-- 🍲 [**Lada**](https://github.com/pluto-hyp/Lada) — Modern Android app for recipe sharing and cooking videos built with Kotlin.
-- 🎯 [**hire-radar**](https://github.com/pluto-hyp/hire-radar) — AI-driven job and profile recommendation platform.
-- 💬 [**queryFlow**](https://github.com/pluto-hyp/queryFlow) — Web-based FAQ chatbot for the software domain.
+- [**Intellectra**](https://github.com/pluto-hyp/intellectra) — Full-stack e-learning application built with Flutter and Django.
+- [**Lada**](https://github.com/pluto-hyp/Lada) — Modern Android app for recipe sharing and cooking videos built with Kotlin.
+- [**hire-radar**](https://github.com/pluto-hyp/hire-radar) — AI-driven job and profile recommendation platform.
+- [**queryFlow**](https://github.com/pluto-hyp/queryFlow) — Web-based FAQ chatbot for the software domain.
 
 
 
