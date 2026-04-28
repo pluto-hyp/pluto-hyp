@@ -122,7 +122,7 @@ fun_fact: I turn coffee into cross-platform apps
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pluto-hyp&amp;theme=github_dark;count_private=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pluto-hyp&amp;theme=github_dark" />
 <img width="49%" src="https://streak-stats.demolab.com?user=pluto-hyp&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=30363d&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff;count_private=true" />
 
 </div>
