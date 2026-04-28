@@ -122,14 +122,14 @@ fun_fact: I turn coffee into cross-platform apps
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pluto-hyp&amp;theme=github_dark" />
-<img width="49%" src="https://streak-stats.demolab.com?user=pluto-hyp&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=30363d&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pluto-hyp&amp;theme=github_dark;count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=pluto-hyp&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=30363d&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff;count_private=true" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=pluto-hyp&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=58a6ff&amp;point=ffffff&amp;area=true&amp;area_color=1f6feb&amp;hide_border=true" />
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=pluto-hyp&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=58a6ff&amp;point=ffffff&amp;area=true&amp;area_color=1f6feb&amp;hide_border=true;count_private=true" />
 
 </div>
 
