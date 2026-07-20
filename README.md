@@ -1,7 +1,7 @@
 <div align="center">
 
 # Mouad El Ouichouani
-### Mobile Developer | AI & Data Science Student
+### Software Developer | AI & Data Science Student
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+seamless+mobile+experiences;Flutter+%7C+Kotlin+%7C+Android+Developer;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Problem+Solver" alt="Typing SVG" /></a>
@@ -14,7 +14,7 @@
 
 ```yaml
 name: Mouad El Ouichouani
-role: Mobile Developer & AI/Data Science Student
+role: Software Developer & AI/Data Science Student
 location: Morocco
 currently_working_on: Mobile & Web Applications
 learning: Deep Learning, MLOps, Scalable Systems
@@ -141,6 +141,7 @@ fun_fact: I turn coffee into cross-platform apps
 - [**Lada**](https://github.com/pluto-hyp/Lada) — Modern Android app for recipe sharing and cooking videos built with Kotlin.
 - [**hire-radar**](https://github.com/pluto-hyp/hire-radar) — AI-driven job and profile recommendation platform.
 - [**queryFlow**](https://github.com/pluto-hyp/queryFlow) — Web-based FAQ chatbot for the software domain.
+- [**Rokhas**](https://github.com/pluto-hyp/rokhas) — Digital Administration Platform — A Modern Redesign of the Rokhas Official Website.
 
 
 
